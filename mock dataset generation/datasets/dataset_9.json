@@ -1,0 +1,235 @@
+{
+    "student_1": {
+        "Strengths": [
+            "Strong analytical skills",
+            "Good grasp of mathematical concepts",
+            "Quick at solving puzzles"
+        ],
+        "Weaknesses": [
+            "Finds grammar rules difficult to remember",
+            "Struggles with word problems"
+        ],
+        "Interests": [
+            "Astronomy",
+            "Video games",
+            "Space exploration"
+        ],
+        "Learning Style": "Visual",
+        "Learning Challenges": [
+            "Short attention span"
+        ],
+        "Goals": [
+            "Become a software engineer",
+            "Complete an online course in graphic design"
+        ],
+        "Availability": "2 hours daily on weekdays"
+    },
+    "student_2": {
+        "Strengths": [
+            "Excels in creative writing",
+            "Strong interpersonal skills",
+            "Enjoys group discussions"
+        ],
+        "Weaknesses": [
+            "Poor retention of historical dates",
+            "Weak vocabulary"
+        ],
+        "Interests": [
+            "Cultures and languages",
+            "Environmental science"
+        ],
+        "Learning Style": "Auditory",
+        "Learning Challenges": [
+            "Dyslexia affecting reading comprehension"
+        ],
+        "Goals": [
+            "Secure admission to a prestigious college",
+            "Improve grades in science"
+        ],
+        "Availability": "Weekends for project-based learning"
+    },
+    "student_3": {
+        "Strengths": [
+            "Good grasp of mathematical concepts",
+            "Strong interpersonal skills"
+        ],
+        "Weaknesses": [
+            "Struggles with abstract concepts",
+            "Weak vocabulary"
+        ],
+        "Interests": [
+            "Video games",
+            "Astronomy"
+        ],
+        "Learning Style": "Kinesthetic",
+        "Learning Challenges": [
+            "Overwhelmed by too many tasks"
+        ],
+        "Goals": [
+            "Learn coding",
+            "Complete an online course in graphic design"
+        ],
+        "Availability": "Short, 30-minute sessions"
+    },
+    "student_4": {
+        "Strengths": [
+            "Strong analytical skills",
+            "Excels in creative writing"
+        ],
+        "Weaknesses": [
+            "Finds grammar rules difficult",
+            "Struggles with historical dates"
+        ],
+        "Interests": [
+            "Space exploration",
+            "Environmental science"
+        ],
+        "Learning Style": "Reading/Writing",
+        "Learning Challenges": [
+            "Short attention span"
+        ],
+        "Goals": [
+            "Pursue medicine",
+            "Improve science grades"
+        ],
+        "Availability": "2 hours daily on weekdays"
+    },
+    "student_5": {
+        "Strengths": [
+            "Quick at solving puzzles",
+            "Good grasp of mathematical concepts"
+        ],
+        "Weaknesses": [
+            "Poor retention of historical dates",
+            "Struggles with word problems"
+        ],
+        "Interests": [
+            "Video games",
+            "Cultures and languages"
+        ],
+        "Learning Style": "Visual",
+        "Learning Challenges": [
+            "Dyslexia affecting reading comprehension"
+        ],
+        "Goals": [
+            "Become a software engineer",
+            "Secure admission to a prestigious college"
+        ],
+        "Availability": "Weekends for project-based learning"
+    },
+    "student_6": {
+        "Strengths": [
+            "Strong interpersonal skills",
+            "Excels in creative writing"
+        ],
+        "Weaknesses": [
+            "Weak vocabulary",
+            "Finds grammar rules difficult"
+        ],
+        "Interests": [
+            "Environmental science",
+            "Astronomy"
+        ],
+        "Learning Style": "Auditory",
+        "Learning Challenges": [
+            "Overwhelmed by too many tasks"
+        ],
+        "Goals": [
+            "Learn coding",
+            "Improve grades in science"
+        ],
+        "Availability": "Short, 30-minute sessions"
+    },
+    "student_7": {
+        "Strengths": [
+            "Good grasp of mathematical concepts",
+            "Strong analytical skills"
+        ],
+        "Weaknesses": [
+            "Struggles with abstract concepts",
+            "Poor retention of historical dates"
+        ],
+        "Interests": [
+            "Space exploration",
+            "Video games"
+        ],
+        "Learning Style": "Kinesthetic",
+        "Learning Challenges": [
+            "Short attention span"
+        ],
+        "Goals": [
+            "Complete an online course in graphic design",
+            "Pursue medicine"
+        ],
+        "Availability": "2 hours daily on weekdays"
+    },
+    "student_8": {
+        "Strengths": [
+            "Excels in creative writing",
+            "Strong interpersonal skills"
+        ],
+        "Weaknesses": [
+            "Weak vocabulary",
+            "Struggles with word problems"
+        ],
+        "Interests": [
+            "Cultures and languages",
+            "Environmental science"
+        ],
+        "Learning Style": "Reading/Writing",
+        "Learning Challenges": [
+            "Dyslexia affecting reading comprehension"
+        ],
+        "Goals": [
+            "Secure admission to a prestigious college",
+            "Learn coding"
+        ],
+        "Availability": "Weekends for project-based learning"
+    },
+    "student_9": {
+        "Strengths": [
+            "Quick at solving puzzles",
+            "Good grasp of mathematical concepts"
+        ],
+        "Weaknesses": [
+            "Finds grammar rules difficult",
+            "Struggles with abstract concepts"
+        ],
+        "Interests": [
+            "Astronomy",
+            "Space exploration"
+        ],
+        "Learning Style": "Visual",
+        "Learning Challenges": [
+            "Overwhelmed by too many tasks"
+        ],
+        "Goals": [
+            "Become a software engineer",
+            "Improve grades in science"
+        ],
+        "Availability": "Short, 30-minute sessions"
+    },
+    "student_10": {
+        "Strengths": [
+            "Strong analytical skills",
+            "Excels in creative writing"
+        ],
+        "Weaknesses": [
+            "Poor retention of historical dates",
+            "Weak vocabulary"
+        ],
+        "Interests": [
+            "Video games",
+            "Environmental science"
+        ],
+        "Learning Style": "Auditory",
+        "Learning Challenges": [
+            "Short attention span"
+        ],
+        "Goals": [
+            "Complete an online course in graphic design",
+            "Pursue medicine"
+        ],
+        "Availability": "2 hours daily on weekdays"
+    }
+}
