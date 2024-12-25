@@ -2,6 +2,7 @@
 
 ## **Overview**
 This project aims to develop an AI-powered system for creating personalized learning paths for students. Leveraging user-defined attributes, this system generates tailored study plans that include workshops, tasks, activities, and mentorship recommendations.
+
 ---
 
 ## **Implementation Details**
@@ -77,7 +78,7 @@ This project aims to develop an AI-powered system for creating personalized lear
 ---
 
 ## **Acknowledgement**
-Thanks to the open-source libraries and tools used in this project --> OpenAI, Streamlit and On-Demand.
+Thanks to the open-source libraries and tools used in this project --> OpenAI, Streamlit and On-Demand.<br>
 This project was made as a part of the **Alcovia Intern Mandatory Task**. I extend a heartfelt thank you to the Alcovia team for providing me this opportunity.
 
 ---

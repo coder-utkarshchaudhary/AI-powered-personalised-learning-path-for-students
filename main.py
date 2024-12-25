@@ -113,14 +113,26 @@ def display_chat_message(message, is_user=False):
                         st.markdown(f"* {task}")
                     st.markdown("")
 
-                if "Mentors" in study_plan:
+                if "Mentors" in study_plan and study_plan["Mentors"]:
                     st.markdown("### Mentors")
                     for mentor in study_plan["Mentors"]:
-                        st.markdown(f"* **{mentor['Name']}** - {mentor['Expertise']}\n  [Connect on LinkedIn]({mentor['Social Media']})")
+                        try:
+                            name = mentor.get('Name', 'Unknown')
+                            expertise = mentor.get('Expertise', 'Not specified')
+                            social_media = mentor.get('Social Media', '#')
+                            
+                            st.markdown(
+                                f"* **{name}** - {expertise}\n  "
+                                f"[Connect on LinkedIn]({social_media})"
+                            )
+                        except Exception as e:
+                            st.markdown(f"* Error displaying mentor information")
                     st.markdown("")
 
             except json.JSONDecodeError:
                 st.error("Failed to parse the response. Please try again.")
+            except Exception as e:
+                st.error(f"An error occurred while displaying the response: {str(e)}")
 
 def student_attributes_form():
     st.markdown("### Enter Student Information")
