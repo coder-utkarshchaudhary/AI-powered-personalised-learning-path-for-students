@@ -85,3 +85,6 @@ This project was made as a part of the **Alcovia Intern Mandatory Task**. I exte
 
 ## **License**
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software, provided proper attribution is given.
+
+## **Follow Up Project**
+Also check out the extension of the project at [AI-powered-mentor-mentee-matching-system](https://github.com/coder-utkarshchaudhary/AI-powered-mentor-mentee-matching-system.git)
